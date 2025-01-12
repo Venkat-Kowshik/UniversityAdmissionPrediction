@@ -101,11 +101,6 @@ This project aims to predict **university admissions** based on historical data 
 
 ---
 
-### **Informal Description**  
-This system predicts a student’s likelihood of being admitted to a university based on their academic performance and other relevant factors. It provides **personalized insights** to students, helping them assess their chances and offering **institutions** the opportunity to optimize their **admissions process**.
-
----
-
 ### **Formal Description**
 
 - **Task (T):** Predict admission outcomes using academic and extracurricular data.  
